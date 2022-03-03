@@ -13,7 +13,7 @@ namespace EntityLayer.Concrete
         public int TestimonialID { get; set; }
         public string Client { get; set; }
         public string ClientImage { get; set; }
-        public string Image { get; set; }
+        public string City { get; set; }
         public bool Status { get; set; }
     }
 }
